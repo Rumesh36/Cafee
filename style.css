@@ -1,0 +1,63 @@
+*{
+    font-family:roboto slaps;
+}
+body{
+    background-image: url(4k2.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.main {
+    background-color:rgb(224, 145, 59);
+    width: 95%;
+    height: 1000px;
+    text-align: center;
+    border: 2px solid black ;
+   
+}
+hr{
+   width: 99%;
+   height: 4px;
+   background-color: rgb(209, 68, 18);
+    color: rgb(143, 10, 10);
+}
+.symbol1{
+    text-align: center;
+}
+
+#right{
+    text-align:right;
+    padding-right: 15px;
+
+}
+#left{
+    text-align: left;
+    padding-left: 15px;
+
+}
+footer{
+    width: 100%;
+    height: 100px;
+}
+a{
+    color: black;
+
+}
+a:hover{
+    color: red;
+}
+#i:hover{
+     
+    color: rgb(8, 8, 215);
+}
+.coffee{
+    display: flex;
+ justify-content: space-between;
+}
+.desserts{
+    display: flex;
+    justify-content: space-between;
+}
